@@ -1,0 +1,56 @@
+
+
+.item{
+  
+  background-color: rgb(204, 17, 17);
+  border-radius: 1px;
+  text-align: center;
+  max-width: 300px;
+  display: inline-block;
+  border: solid hsl(0, 0%, 0%);
+  padding: 30px;
+  border-radius: 10px;
+  
+}
+
+.item image {
+
+  border: 1px solid hsl(0, 0%, 0%);
+  max-width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+
+}
+
+.items{
+  
+  background-color: rgb(245, 6, 6);
+  text-align: center;
+  border: 1px solid;
+  margin: 10px;
+  width: 200px;
+  padding: 30px;
+  border-radius: 10px;
+  display: inline-block;
+
+}
+
+.items .image {
+
+  margin-top: 30px;
+  border: 1px;
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+
+}
+
+ button{
+  color: rgb(4, 66, 88);
+ }
+
+.items .Name{
+  font-size: 1em;
+}
